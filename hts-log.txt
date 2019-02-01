@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Feb 2019 09:08:10 at https://www.templatemonster.com/es/demo/55732.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.templatemonster.com/es/demo/55732.html -O1 "C:\Users\Daimon\Desktop\Prueba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:08:18	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.templatemonster.com/es/demo/55732.html)
+09:08:19	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.templatemonster.com/es/demo/callback_notice=closed; expires=03 Jul 2036 21:44:38 GMT; domain=.templatemonster.com; path=/ (from https://www.templatemonster.com/es/demo/55732.html)
+09:08:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.templatemonster.com/es/demo/callback_notice=closed; expires=03 Jul 2036 21:44:38 GMT; domain=.templatemonster.com; path=/ (from https://www.templatemonster.com/es/demo/55732.html)
+09:08:26	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.templatemonster.com/es/demo/callback_notice=closed; expires=03 Jul 2036 21:44:38 GMT; domain=.templatemonster.com; path=/ (from https://www.templatemonster.com/es/demo/55732.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 32 links scanned, 27 files written (4523315 bytes overall) [1814515 bytes received at 113407 bytes/sec], 4369725 bytes transferred using HTTP compression in 12 files, ratio 37%, 6.4 requests per connection
+(2 errors, 2 warnings, 0 messages)
